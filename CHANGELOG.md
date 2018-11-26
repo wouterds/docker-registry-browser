@@ -1,5 +1,9 @@
 # Changelog
 
+# Next
+
+* Support for token based authentication ([#137](https://github.com/klausmeyer/docker-registry-browser/pull/137))
+
 # v1.0.0
 
 * Started versioning the application
