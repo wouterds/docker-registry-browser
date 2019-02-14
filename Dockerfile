@@ -1,4 +1,4 @@
-FROM ruby:2.6.1-alpine
+FROM arm32v6/ruby:2.6.1-alpine
 
 MAINTAINER Klaus Meyer <spam@klaus-meyer.net>
 
